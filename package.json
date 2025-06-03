@@ -1,0 +1,29 @@
+{
+  "name": "com.jjasundry.scriptable-actions",
+  "version": "1.0.0",
+  "displayName": "Scriptable Actions",
+  "description": "A Unity package that removes hard references when communicating between scripts.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/arwtsh/ScriptableActions/blob/main/Documentation~/documentation.md",
+  "changelogUrl": "https://github.com/arwtsh/ScriptableActions/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/arwtsh/ScriptableActions/blob/main/LICENSE.MD",
+  "dependencies": {
+    "com.jjasundry.additional-inspector-attributes": "2.0.0",
+    "com.unity.inputsystem": "1.12.0"
+ },
+ "keywords": [
+    "Input",
+    "Pawn",
+    "Controller",
+    "Scriptable",
+    "Action",
+    "Ability"
+  ],
+  "author": {
+    "name": "Adam White",
+    "email": "jjasundry+gamedev@gmail.com",
+    "url": "https://www.linkedin.com/in/adamwhite302/"
+  },
+  "hideInEditor": "false",
+  "license": "CC-BY-4.0"
+}

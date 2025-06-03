@@ -1,0 +1,17 @@
+{
+    "name": "ScriptableActions",
+    "rootNamespace": "ScriptableActions",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6adf03b40be2df44782eff53e421f9a6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
