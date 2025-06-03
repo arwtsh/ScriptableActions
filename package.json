@@ -1,6 +1,6 @@
 {
   "name": "com.jjasundry.scriptable-actions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Scriptable Actions",
   "description": "A Unity package that removes hard references when communicating between scripts.",
   "unity": "6000.0",
@@ -8,7 +8,7 @@
   "changelogUrl": "https://github.com/arwtsh/ScriptableActions/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/arwtsh/ScriptableActions/blob/main/LICENSE.MD",
   "dependencies": {
-    "com.jjasundry.additional-inspector-attributes": "2.0.0",
+    "com.jjasundry.additional-inspector-attributes": "2.1.0",
     "com.unity.inputsystem": "1.12.0"
  },
  "keywords": [

@@ -58,6 +58,7 @@ namespace ScriptableActions
         [SerializeField]
         [HideInInspectorIfNull("inputAction")]
         [DisableInInspectorWhilePlaying]
+        [HelpBox("These events are triggered by Unity's Input System.")]
         private bool shouldRegisterCancled = false;
 
         public void AddListener(IActionReciever reciever, Action<object> call, ActionType actionType = ActionType.Performed)
